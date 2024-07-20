@@ -1,14 +1,23 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "description": "sandwich",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "version": "1.9.0",
+  "keywords": ["dave", "davey", "freecodecamp"],
+  "author": "dave",
+  "license": "BMI"
 }
